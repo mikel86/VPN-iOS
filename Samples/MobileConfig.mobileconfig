@@ -211,7 +211,7 @@ cw1yGHfTWuBqQNRCOwFlFfBsOl9XdiChXHa6CAedla0=
 	<key>PayloadOrganization</key>
 	<string>openvpntest</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
